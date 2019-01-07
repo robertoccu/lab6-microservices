@@ -7,4 +7,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 651943 | [Víctor Fernández Melic](https://github.com/Melic93) |[test](https://github.com/Melic93/lab6-microservices/tree/test) | | 
 | 697589 | [Alberto Mur Rodrigo](https://github.com/697589) |[test](https://github.com/697589/lab6-microservices/tree/test) | | 
 | 718997 | [Abel Chils Trabanco](https://github.com/AbelChT) |[test](https://github.com/AbelChT/lab6-microservices/tree/test) | | 
-|        |           |      |             |
+| 782996 | [Rosario Lissandrello](https://github.com/rslissa)|[test](https://github.com/rslissa/lab6-microservices/tree/test)    |       |
