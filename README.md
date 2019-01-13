@@ -10,3 +10,5 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 782996 | [Rosario Lissandrello](https://github.com/rslissa)|[test](https://github.com/rslissa/lab6-microservices/tree/test)    |       |
 | 706430 | [Óscar Saboya Gómez](https://github.com/oscarsa) |[test](https://github.com/oscarsa/lab6-microservices/tree/test) | |
 | 706430 | [David Sáez García](https://github.com/davidigea) |[test](https://github.com/davidigea/lab6-microservices/tree/test) | | 
+| 718911 | [Jorge Rambla](https://github.com/jorgeRambla)      | [test](https://github.com/jorgeRambla/lab6-microservices/tree/test)  || 
+| 718556 | [Gonzalo Torrecillas Pérez](https://github.com/gonzalotp) |[test](https://github.com/gonzalotp/lab6-microservices/tree/test) | |  
